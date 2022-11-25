@@ -1,5 +1,5 @@
 Version-1 done
 
 Version-2
-	feature-1 done
+	feature-1 donee
 	feature-2 completed
